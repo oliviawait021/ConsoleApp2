@@ -4,9 +4,11 @@ internal class Program
 {
     public static void Main(string[] args)
     {
+        // adding this to test github
         PrintStuff ps;
         ps = new PrintStuff("EN");
         string name = "";
+        
         
         System.Console.WriteLine("Please enter you name");
         name = System.Console.ReadLine();
