@@ -1,0 +1,14 @@
+/Users/oliviafowler/RiderProjects/ConsoleApp2/bin/Debug/net8.0/MoreCsharpFun
+/Users/oliviafowler/RiderProjects/ConsoleApp2/bin/Debug/net8.0/MoreCsharpFun.deps.json
+/Users/oliviafowler/RiderProjects/ConsoleApp2/bin/Debug/net8.0/MoreCsharpFun.runtimeconfig.json
+/Users/oliviafowler/RiderProjects/ConsoleApp2/bin/Debug/net8.0/MoreCsharpFun.dll
+/Users/oliviafowler/RiderProjects/ConsoleApp2/bin/Debug/net8.0/MoreCsharpFun.pdb
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MoreCsharpFun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MoreCsharpFun.AssemblyInfoInputs.cache
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MoreCsharpFun.AssemblyInfo.cs
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MoreCsharpFun.csproj.CoreCompileInputs.cache
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MoreCsharpFun.dll
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/refint/MoreCsharpFun.dll
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MoreCsharpFun.pdb
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MoreCsharpFun.genruntimeconfig.cache
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/ref/MoreCsharpFun.dll

@@ -1,0 +1,14 @@
+/Users/oliviafowler/RiderProjects/ConsoleApp2/bin/Debug/net8.0/MosreCsharpFun
+/Users/oliviafowler/RiderProjects/ConsoleApp2/bin/Debug/net8.0/MosreCsharpFun.deps.json
+/Users/oliviafowler/RiderProjects/ConsoleApp2/bin/Debug/net8.0/MosreCsharpFun.runtimeconfig.json
+/Users/oliviafowler/RiderProjects/ConsoleApp2/bin/Debug/net8.0/MosreCsharpFun.dll
+/Users/oliviafowler/RiderProjects/ConsoleApp2/bin/Debug/net8.0/MosreCsharpFun.pdb
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MosreCsharpFun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MosreCsharpFun.AssemblyInfoInputs.cache
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MosreCsharpFun.AssemblyInfo.cs
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MosreCsharpFun.csproj.CoreCompileInputs.cache
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MosreCsharpFun.dll
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/refint/MosreCsharpFun.dll
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MosreCsharpFun.pdb
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/MosreCsharpFun.genruntimeconfig.cache
+/Users/oliviafowler/RiderProjects/ConsoleApp2/obj/Debug/net8.0/ref/MosreCsharpFun.dll
